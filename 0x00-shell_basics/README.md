@@ -6,3 +6,4 @@ ls -la :Display current directory contents, including hidden files.
 ls -lan :Display current directory contentsLong format with user and group IDs displayed numerically And hidden files .
 mkdir:creates a directory .
 mv : move file .
+rm : remove or delete a file.
