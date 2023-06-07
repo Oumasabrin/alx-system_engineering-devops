@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ampvX [0-9A-Za-z]
+ls -ampv
