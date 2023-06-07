@@ -15,3 +15,4 @@ ln -s : create a symbolic link .
 cp -un * .html ../ :copies all the HTML files from current directory to parent directory that did not exist in the parent of the working.
 mv [[:upper]]* :moves all files beginning with an uppercase letter.
 rm *~ : delete all files that end with ~
+mkdir -p :create a directory ,the option -p ensure that the parent directories are also created if they don't exist.
