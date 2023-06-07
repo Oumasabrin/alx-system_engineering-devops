@@ -12,3 +12,4 @@ cd - : script that changes the working directory to the previous one.
 ls -la . .. /boot :lists all files (even ones hidden) in the current directory and the parent of the working directory and the /boot directory in long format.
 file : script that prints the type of the file.
 ln -s : create a symbolic link .
+cp -un * .html ../ :copies all the HTML files from current directory to parent directory that did not exist in the parent of the working.
