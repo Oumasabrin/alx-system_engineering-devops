@@ -13,3 +13,4 @@ ls -la . .. /boot :lists all files (even ones hidden) in the current directory a
 file : script that prints the type of the file.
 ln -s : create a symbolic link .
 cp -un * .html ../ :copies all the HTML files from current directory to parent directory that did not exist in the parent of the working.
+mv [[:upper]]* :moves all files beginning with an uppercase letter.
