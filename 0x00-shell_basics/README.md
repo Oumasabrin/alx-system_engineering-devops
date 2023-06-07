@@ -3,5 +3,5 @@ ls : Display the contents list of your current directory.
 cd ~ : a script that changes the working directory to the user’s home directory.
 ls -l :Display current directory contents in a long format.
 ls -la :Display current directory contents, including hidden files.
-ls -lan :Display current directory contentsLong format with user and group IDs displayed numerically And hidden files.
-mkdir /tmp/my_first_directory/:creates a directory named my_first_directory in the /tmp/ directory.
+ls -lan :Display current directory contentsLong format with user and group IDs displayed numerically And hidden files .
+mkdir:creates a directory .
