@@ -7,3 +7,4 @@ ls -lan :Display current directory contentsLong format with user and group IDs d
 mkdir:creates a directory .
 mv : move file .
 rm : remove or delete a file.
+rm -r :remove or delete a directory.
