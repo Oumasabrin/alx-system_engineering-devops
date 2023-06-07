@@ -16,3 +16,4 @@ cp -un * .html ../ :copies all the HTML files from current directory to parent d
 mv [[:upper]]* :moves all files beginning with an uppercase letter.
 rm *~ : delete all files that end with ~
 mkdir -p :create a directory ,the option -p ensure that the parent directories are also created if they don't exist.
+ls -ampvX:list files seperated with commas including hidden files and more.
