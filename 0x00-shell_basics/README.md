@@ -9,3 +9,4 @@ mv : move file .
 rm : remove or delete a file.
 rm -r :remove or delete a directory.
 cd - : script that changes the working directory to the previous one.
+ls -la . .. /boot :lists all files (even ones hidden) in the current directory and the parent of the working directory and the /boot directory in long format.
